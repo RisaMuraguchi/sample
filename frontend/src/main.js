@@ -19,4 +19,5 @@ const firebaseConfig = {
 
 // Initialize Firebase
 initializeApp(firebaseConfig);
+
 createApp(App).mount('#app')
